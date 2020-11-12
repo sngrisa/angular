@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-alonso",
+  "version": "1.0.0",
+  "description": "Proyecto de Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sngrisa/angular.git"
+  },
+  "author": "Santiago Grisafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sngrisa/angular/issues"
+  },
+  "homepage": "https://github.com/sngrisa/angular#readme"
+}
